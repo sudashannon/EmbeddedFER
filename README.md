@@ -1,16 +1,23 @@
 # EmbeddedFER
 Embedded realization of a FER-CNN(face emotion recogniton) based on STM32H7 MCU.
 
-MainPage<img src="https://github.com/sudashannon/EmbeddedFER/blob/master/Result/8.png" width="500" alt="主界面">
+MainPage
+<img src="https://github.com/sudashannon/EmbeddedFER/blob/master/Result/8.png" width="500" alt="主界面">
 
-![LoadModel](https://github.com/sudashannon/EmbeddedFER/blob/master/Result/9.png)
+LoadModel
+<img src="https://github.com/sudashannon/EmbeddedFER/blob/master/Result/9.png" width="500" alt="加载模型">
 
-![Anger Face](https://github.com/sudashannon/EmbeddedFER/blob/master/Result/3.png)
+Anger Face
+<img src="https://github.com/sudashannon/EmbeddedFER/blob/master/Result/3.png" width="500" alt="生气">
 
-![Normal Face](https://github.com/sudashannon/EmbeddedFER/blob/master/Result/4.png)
+Normal Face
+<img src="https://github.com/sudashannon/EmbeddedFER/blob/master/Result/4.png" width="500" alt="普通">
 
-![Sad Face](https://github.com/sudashannon/EmbeddedFER/blob/master/Result/5.png)
+Sad Face
+<img src="https://github.com/sudashannon/EmbeddedFER/blob/master/Result/5.png" width="500" alt="难过">
 
-![Happy Face](https://github.com/sudashannon/EmbeddedFER/blob/master/Result/6.png)
+Happy Face
+<img src="https://github.com/sudashannon/EmbeddedFER/blob/master/Result/6.png" width="500" alt="开心">
 
-![Surprised Face](https://github.com/sudashannon/EmbeddedFER/blob/master/Result/7.png)
+Surprised Face
+<img src="https://github.com/sudashannon/EmbeddedFER/blob/master/Result/7.png" width="500" alt="惊讶">
